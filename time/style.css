@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  background-color: rgb(255, 196, 0);
+  text-align: center;
+  padding: 10px;
+  justify-content: center;
+  border: 3px solid black;
+  width: 300px;
+  position: relative;
+  left: 450px;
+}
+#first {
+  background-color: rgb(55, 58, 48);
+  position: absolute;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
